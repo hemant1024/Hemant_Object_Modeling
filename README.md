@@ -38,6 +38,7 @@ During the course of this project,
 # Implement Entities
 ### Scope of Work
 - Understand the entities of the provided implementation of Movie Booking Problem statement.
+
   For CodinGame Problem Statement
 - Implement entities with the identified attributes and their behaviour.
 - Implement the relationship between the entities
